@@ -17,7 +17,8 @@
 ## INSTALL/RUN-DIRECTIONS
 * npm install
 * npm install mongoose
-* npm isntall express
+* npm install express
+* npm start
 
 ## DEMONSTRATION
 
